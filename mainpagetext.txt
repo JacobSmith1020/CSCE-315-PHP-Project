@@ -1,0 +1,28 @@
+=General Information=
+Name: Jacob Smith
+
+Email: jacobasmith1020@gmail.com
+
+==Education==
+====High School====
+----
+GRADUATED: JUNE, 2018
+
+HIGH SCHOOL DIPLOMA, ALLEN HIGH SCHOOL, ALLEN, TX
+
+GPA of 4.186 on a 5.0 scale. Graduated top ten percent in my class of over 1500 students.
+
+====College====
+----
+CURRENTLY ENROLLED: EXPECTED GRADUATION DATE: MAY, 2022
+
+BACHELOR OF SCIENCE IN COMPUTER ENGINEERING, TEXAS A&M UNIVERSITY, COLEGE STATION, TX
+
+Current GPA of 3.224 on a 4.0 scale. Currently pursuing a degree in Computer Engineering (Computer Science Focus) which lends itself to a broad range of skills that pertain to the industry surrounding computer science (Programming, Computer Architecture, etc.).
+
+
+==Skills==
+*Proficient programming skill within the confines of several programming languages (listed below).
+*Proficient knowledge in creating and troubleshooting electrical circuit systems digitally with Verilog.
+*Familiar working within Windows and Linux. Have experience using threads and other function libraries unique to Linux. 
+*Familiar with writing and testing assembly code within the confines of the ARMv8 instruction set 

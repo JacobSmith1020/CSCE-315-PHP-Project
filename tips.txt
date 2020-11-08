@@ -1,0 +1,5 @@
+=Coding Tips Collection=
+*If using InfinityFree to host your website, it can often be difficult to debug from the basic error messages given. To help speed up the debugging process, more detailed error messages can be toggled in control panel>alter php config>alter php directives>display errors->on.
+*Writing comments while you code can be a great way to improve the readability of the code, especially for others.
+*When writing code, naming variables after what type of object the variable will hold greatly improves readability and ability to understand the code you've written.
+*When writing code in php, if you want to output a line of CSS or HTML without ending the <?php ?> bracket, you can use the echo command to output the line as a string with the same effect. 

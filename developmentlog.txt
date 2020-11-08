@@ -1,0 +1,18 @@
+CSCE 315 Project 1 part 3 development log
+
+11:15am,9/13/20: search function will now take in a keyword input from the user and
+detect if said keyword appears in any php pages associated with this web site, using
+the strpos function to detect a match and its position within a given file. 
+
+11:32am,9/13/20: search function will now not only display whether a keyword is in a
+php file but will also display the url for the user to access the page where the
+match was found.
+
+1:56pm,9/13/20: all functions (proc_csv(), proc_wikitext(), proc_gallery(), and
+search()) have been moved out of the main index.php file if they were there already
+and placed into their own file. Additionally, page links have been set up at the
+bottom of every page to navigate between the different pages of the site (main,
+gallery, blog, etc.).
+
+5:43pm,9/13/20: all pages are finalized and connected to each other via the page links
+section at the bottom of each page. 
